@@ -1,3 +1,5 @@
+I am a first year graduate student at the University of Arizona pursuing a Ph.D. in physics and specializing cosmology.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pierfied/pierfied.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
