@@ -1,4 +1,5 @@
-I am a first year graduate student at the University of Arizona pursuing a Ph.D. in physics and specializing cosmology.
+# Pier Fiedorowicz
+I am a first year graduate student at the University of Arizona pursuing a Ph.D. in physics.
 
 ## Welcome to GitHub Pages
 
